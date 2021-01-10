@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Color Descriptor</string>
+    <string name="button_find_description">Мне нравится этот цвет! Скажи, какой я? </string>
+
+    <string-array name="colors">
+        <item>Красный</item>
+        <item>Оранжевый</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Голубой</item>
+        <item>Синий</item>
+        <item>Фазан</item>
+    </string-array>
+    <string-array name="description_of_temp">Описание характера
+    <item>Ты как красно солнышко! Особенно, когда сгоришь на солнце</item>
+        <item>Ты как апельсин! Если надкусить, можешь брызнуть соком</item>
+        <item>Ты как лимон! Сложно пережить, но, зараза, полезный</item>
+        <item>Ты травушка! На тебе приятно полежать ;) </item>
+        <item>Ты как новогодний огонек! Сияешь только раз в году</item>
+        <item>Ты как ласковое морько! Любишь погладить женские изгибы. Или просто любишь побыть синим ^__^ </item>
+        <item>Что ты ожидал увидеть, выбирая среди цветов фазана?</item>
+    </string-array>
+    
+</resources>
